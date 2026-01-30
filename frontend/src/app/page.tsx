@@ -5,7 +5,7 @@ import { RefreshCw, Github, AlertCircle } from "lucide-react";
 import { EventCard, WebhookEvent } from "@/components/EventCard";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
-const API_URL = "https://webhook-repo-6poi.onrender.com/api/events";
+const API_URL = "https://webhook-repo-byyr.onrender.com/api/events";
 const POLLING_INTERVAL = 15000;
 
 const fetcher = (url: string) =>
