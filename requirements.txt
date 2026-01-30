@@ -1,0 +1,16 @@
+# Flask Web Framework
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# MongoDB Driver
+pymongo==4.6.1
+certifi==2024.2.2
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# CORS Support
+flask-cors==4.0.0
+
+# Production WSGI Server
+gunicorn==21.2.0
